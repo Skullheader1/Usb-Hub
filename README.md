@@ -6,9 +6,10 @@ The USB-Hub provides the functionality to divide a USB-C upstream into 2 USB-C d
 
 ## Features
 
-- 2 USB-A ports
-- 2 USB-C ports
-- Indicator light to signal whether the USB hub is currently plugged in
+- 1 USB-C upstream port
+- 2 USB-C downstream ports
+- 2 USB-A downstream ports
+- Power indicator LED
 
 ## Repository Structure
 
