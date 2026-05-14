@@ -46,6 +46,10 @@ The USB-Hub provides the functionality to divide a USB-C upstream into 2 USB-C d
 | 7 | TYPE-C 16PIN 2MD(073) | USB1,USB2,USB3 | USB-C-SMD_TYPE-C-16PIN-2MD-073 | 3 | TYPE-C 16PIN 2MD(073) | SHOU HAN(首韩) | LCSC | C2765186 | 0.0664 | 16 |
 | 8 | 10.0QHHTZB6.3 | USB4,USB5 | USB-A-TH_10.0QHHTZB6.3 | 2 | 10.0 QHHTZB6.3 | SHOU HAN(首韩) | LCSC | C668591 | 0.0666 | 6 |
 
+## License
+
+This project is licensed under the MIT License.
+
 ## Credits
 
 - [EasyEDA](https://easyeda.com) - Schematic & PCB design
